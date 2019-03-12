@@ -8,7 +8,7 @@
 
 _Single webpage about a cupcake shop that contains menu and history_
 
-** Clone this repository: https://github.com/jasminaf/cupcake-shop**
+**Clone this repository: https://github.com/jasminaf/cupcake-shop**
 
 ## Support and contact detalis
 
@@ -16,5 +16,5 @@ _In case of any problems you can contact me at:_ **jasmina_filipovic@hotmail.com
 
 ## Technologies used
 
-_html_
-_CSS_
+1. _html_...
+2. _CSS_...
